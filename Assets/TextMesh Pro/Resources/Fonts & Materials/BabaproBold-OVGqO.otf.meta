@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2ecedea1c3515204daaa6e8e8299e405
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BabaPro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ed2d8c6b9962333409a0c947a8c89afa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
